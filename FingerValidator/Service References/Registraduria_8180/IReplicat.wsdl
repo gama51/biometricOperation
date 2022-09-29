@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:ns1="http://www.morpho.com/replicat/wsdl/1.0" name="IReplicat" targetNamespace="http://www.morpho.com/replicat/wsdl/1.0" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xs:schema elementFormDefault="qualified" targetNamespace="http://www.morpho.com/replicat/xsd/1.0" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:complexType name="SearchCandidate">
+        <xs:sequence>
+          <xs:element name="m_s_NUT" type="xs:string" />
+          <xs:element name="m_s_OperatorId" type="xs:string" />
+          <xs:element name="m_s_ClientId" type="xs:string" />
+          <xs:element name="m_s_NuipNip" type="xs:string" />
+          <xs:element name="m_fpf_FingerPrintFormat" type="xs:string" />
+          <xs:element name="mv_fi_FingersToGet">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element maxOccurs="unbounded" name="mv_b_FingerPrintData" type="xs:string" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="searchCandidateResponse">
+        <xs:sequence>
+          <xs:element name="m_ss_SearchStatus" type="xs:string" />
+          <xs:element name="m_s_NUT" type="xs:string" />
+          <xs:element minOccurs="0" name="m_s_RequestId" type="xs:string" />
+          <xs:element minOccurs="0" name="m_s_OperatorId" type="xs:string" />
+          <xs:element minOccurs="0" name="m_s_ClientId" type="xs:string" />
+          <xs:element minOccurs="0" name="m_s_NuipNip" type="xs:string" />
+          <xs:element minOccurs="0" name="CandidateAlpha">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element maxOccurs="unbounded" name="mv_ca_AlphaValues">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="m_ai_AlphaId" type="xs:string" />
+                      <xs:element name="m_s_AlphaValue" type="xs:string" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element minOccurs="0" name="FingerPrintData">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element minOccurs="0" maxOccurs="unbounded" name="mv_fpd_FingerPrintsData">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="m_fi_FingerId" type="xs:string" />
+                      <xs:element name="m_fpf_FingerPrintFormat" type="xs:string" />
+                      <xs:element name="mv_b_FingerPrintData" type="xs:base64Binary" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:sequence>
+      </xs:complexType>
+    </xs:schema>
+    <xs:schema targetNamespace="http://www.morpho.com/adminRep2/xsd/1.0" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:complexType name="AdminCommandResponse">
+        <xs:sequence>
+          <xs:element form="qualified" name="commandStatus" type="xs:string" />
+          <xs:element form="qualified" name="executionDetails" type="xs:string" />
+          <xs:element minOccurs="0" form="qualified" name="executionOutput">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element maxOccurs="unbounded" form="qualified" name="output">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element form="qualified" name="m_ai_AlphaId" type="xs:string" />
+                      <xs:element form="qualified" name="m_s_AlphaValue" type="xs:string" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="AdminCommand">
+        <xs:sequence>
+          <xs:element form="qualified" name="user" type="xs:string" />
+          <xs:element form="qualified" name="password" type="xs:string" />
+          <xs:element form="qualified" name="command" type="xs:string" />
+          <xs:element form="qualified" name="params">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element maxOccurs="unbounded" form="qualified" name="param" type="xs:string" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:sequence>
+      </xs:complexType>
+    </xs:schema>
+    <xsd:schema xmlns="http://www.morpho.com/replicat/wsdl/1.0" xmlns:tns="http://replicat.morpho.com/" xmlns:ns0="http://www.morpho.com/replicat/xsd/1.0" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://www.morpho.com/replicat/wsdl/1.0">
+      <xsd:import namespace="http://www.morpho.com/replicat/xsd/1.0" />
+      <xsd:element name="SearchCandidate" nillable="true" type="ns0:SearchCandidate" />
+      <xsd:element name="SearchCandidateResponse" nillable="true" type="ns0:searchCandidateResponse" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="SearchCandidateResponse">
+    <wsdl:part name="SearchCandidateResponse" element="ns1:SearchCandidateResponse" />
+  </wsdl:message>
+  <wsdl:message name="SearchCandidate">
+    <wsdl:part name="SearchCandidate" element="ns1:SearchCandidate" />
+  </wsdl:message>
+  <wsdl:portType name="IReplicat">
+    <wsdl:operation name="SearchCandidate">
+      <wsdl:input name="SearchCandidate" message="ns1:SearchCandidate" />
+      <wsdl:output name="SearchCandidateResponse" message="ns1:SearchCandidateResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+</wsdl:definitions>

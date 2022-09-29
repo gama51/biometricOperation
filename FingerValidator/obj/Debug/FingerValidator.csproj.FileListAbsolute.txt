@@ -1,0 +1,7 @@
+C:\Users\orodriguez\documents\visual studio 2012\Projects\TestWS\FingerValidator\bin\FingerValidator.dll
+C:\Users\orodriguez\documents\visual studio 2012\Projects\TestWS\FingerValidator\bin\FingerValidator.pdb
+C:\Users\orodriguez\documents\visual studio 2012\Projects\TestWS\FingerValidator\obj\Debug\FingerValidator.dll
+C:\Users\orodriguez\documents\visual studio 2012\Projects\TestWS\FingerValidator\obj\Debug\FingerValidator.pdb
+C:\Users\orodriguez\documents\visual studio 2012\Projects\TestWS\FingerValidator\obj\Debug\FingerValidator.csprojResolveAssemblyReference.cache
+C:\Users\orodriguez\documents\visual studio 2012\Projects\TestWS\FingerValidator\obj\Debug\Interop.GrFingerXLib.dll
+C:\Users\orodriguez\documents\visual studio 2012\Projects\TestWS\FingerValidator\obj\Debug\FingerValidator.csproj.ResolveComReference.cache

@@ -1,0 +1,68 @@
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\ApplicationInsights.config
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\OperacionBiometrica.dll.config
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\OperacionBiometrica.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\OperacionBiometrica.pdb
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.Web.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.ApplicationInsights.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.Web.xml
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.ApplicationInsights.xml
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\obj\Debug\OperacionBiometrica.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\obj\Debug\OperacionBiometrica.pdb
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Biometrics.Client.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Biometrics.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Biometrics.Gui.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Cluster.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Devices.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Devices.Virtual.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.FaceVerification.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Gui.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Licensing.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Media.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Media.Processing.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Media_FX35.dll
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.xml
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Biometrics.xml
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Biometrics.Client.xml
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Biometrics.Gui.xml
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Cluster.xml
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Devices.xml
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Devices.Virtual.xml
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Gui.xml
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Licensing.xml
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Media.xml
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Media.Processing.xml
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\OperacionBiometrica\bin\Neurotec.Media_FX35.xml
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\ApplicationInsights.config
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\OperacionBiometrica.dll.config
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\OperacionBiometrica.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\OperacionBiometrica.pdb
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.Web.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.Web.xml
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\obj\Debug\OperacionBiometrica.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\obj\Debug\OperacionBiometrica.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\obj\Debug\OperacionBiometrica.csproj.CopyComplete
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\obj\Debug\OperacionBiometrica.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\obj\Debug\OperacionBiometrica.pdb
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\BioemtricLib.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\Newtonsoft.Json.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\BioemtricLib.pdb
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\OperacionBiometrica\bin\Newtonsoft.Json.xml

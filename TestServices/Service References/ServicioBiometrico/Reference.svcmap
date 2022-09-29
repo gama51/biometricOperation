@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c1adfa94-1803-43fb-867d-af3b057b9f7e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:2506/OperacionBiomerica.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="OperacionBiometrica.wsdl" MetadataType="Wsdl" ID="8b4ac786-e044-45ca-acd4-0048c0061ae8" SourceId="1" SourceUrl="http://localhost:2506/OperacionBiomerica.svc?wsdl" />
+    <MetadataFile FileName="OperacionBiomerica.disco" MetadataType="Disco" ID="4bfd8af2-a13a-44de-9d01-90db8356fe06" SourceId="1" SourceUrl="http://localhost:2506/OperacionBiomerica.svc?disco" />
+    <MetadataFile FileName="OperacionBiomerica.xsd" MetadataType="Schema" ID="9fc02419-1d78-4645-b42a-c620bc08c66e" SourceId="1" SourceUrl="http://localhost:2506/OperacionBiomerica.svc?xsd=xsd3" />
+    <MetadataFile FileName="OperacionBiomerica1.xsd" MetadataType="Schema" ID="01496256-eafe-49cf-be0b-c61ca3122dcf" SourceId="1" SourceUrl="http://localhost:2506/OperacionBiomerica.svc?xsd=xsd2" />
+    <MetadataFile FileName="OperacionBiomerica2.xsd" MetadataType="Schema" ID="c911492c-fbfe-4673-8a84-082eb05b4992" SourceId="1" SourceUrl="http://localhost:2506/OperacionBiomerica.svc?xsd=xsd1" />
+    <MetadataFile FileName="OperacionBiomerica3.xsd" MetadataType="Schema" ID="0dc8e499-92c6-4b41-b9d1-177858154462" SourceId="1" SourceUrl="http://localhost:2506/OperacionBiomerica.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

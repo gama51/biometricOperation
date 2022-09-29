@@ -1,0 +1,21 @@
+C:\Users\THOMAS\Documents\OperacionBiometrica\IiritechMono\bin\Debug\IiritechMono.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\IiritechMono\bin\Debug\IiritechMono.pdb
+C:\Users\THOMAS\Documents\OperacionBiometrica\IiritechMono\bin\Debug\Iddk2000DotNet.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\IiritechMono\bin\Debug\Iddk2000DotNet.xml
+C:\Users\THOMAS\Documents\OperacionBiometrica\IiritechMono\obj\Debug\IiritechMono.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\IiritechMono\obj\Debug\IiritechMono.pdb
+C:\Users\THOMAS\Documents\OperacionBiometrica\IiritechMono\obj\Debug\IiritechMono.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\IiritechMono\bin\Debug\IiritechMono.dll
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\IiritechMono\bin\Debug\IiritechMono.pdb
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\IiritechMono\bin\Debug\Iddk2000DotNet.xml
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\IiritechMono\obj\Debug\IiritechMono.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\IiritechMono\obj\Debug\IiritechMono.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\IiritechMono\obj\Debug\IiritechMono.dll
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\IiritechMono\obj\Debug\IiritechMono.pdb
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\IiritechMono\bin\Debug\IiritechMono.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\IiritechMono\bin\Debug\IiritechMono.pdb
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\IiritechMono\obj\Debug\IiritechMono.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\IiritechMono\obj\Debug\IiritechMono.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\IiritechMono\obj\Debug\IiritechMono.csproj.CopyComplete
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\IiritechMono\obj\Debug\IiritechMono.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\IiritechMono\obj\Debug\IiritechMono.pdb

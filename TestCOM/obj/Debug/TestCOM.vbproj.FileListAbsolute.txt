@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestCOM\bin\Debug\TestCOM.exe.config
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestCOM\bin\Debug\TestCOM.exe
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestCOM\bin\Debug\TestCOM.pdb
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestCOM\bin\Debug\TestCOM.xml
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestCOM\obj\Debug\TestCOM.vbproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestCOM\obj\Debug\TestCOM.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestCOM\obj\Debug\TestCOM.Resources.resources
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestCOM\obj\Debug\TestCOM.vbproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestCOM\obj\Debug\TestCOM.vbproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestCOM\obj\Debug\TestCOM.exe
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestCOM\obj\Debug\TestCOM.xml
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestCOM\obj\Debug\TestCOM.pdb

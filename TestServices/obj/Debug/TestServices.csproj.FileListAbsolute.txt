@@ -1,0 +1,89 @@
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\bin\Debug\TestServices.exe.config
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\bin\Debug\TestServices.exe
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\bin\Debug\TestServices.pdb
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\obj\Debug\TestServices.Properties.Resources.resources
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\obj\Debug\TestServices.TestFace.resources
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\obj\Debug\TestServices.csproj.GenerateResource.Cache
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\obj\Debug\TestServices.exe
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\obj\Debug\TestServices.pdb
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\obj\Debug\TestServices.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Sources\OperacionBiometrica\TestServices\bin\Debug\TestServices.exe.config
+D:\GoogleDrive\Sources\OperacionBiometrica\TestServices\obj\Debug\TestServices.exe
+D:\GoogleDrive\Sources\OperacionBiometrica\TestServices\obj\Debug\TestServices.pdb
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\TestServices.exe.config
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\obj\Debug\TestServices.exe
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\obj\Debug\TestServices.pdb
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\TestServices.exe
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\TestServices.pdb
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\obj\Debug\TestServices.csprojResolveAssemblyReference.cache
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\obj\Debug\TestServices.Properties.Resources.resources
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\obj\Debug\TestServices.csproj.GenerateResource.Cache
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\IiritechMono.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\Iddk2000DotNet.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\IiritechMono.pdb
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\Iddk2000DotNet.xml
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\obj\Debug\TestServices.CaptureDevice.resources
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\Camara.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\AForge.Video.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\AForge.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\Camara.pdb
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\AForge.Video.xml
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\AForge.xml
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\AForge.Controls.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\AForge.Imaging.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\AForge.Math.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\AForge.Controls.xml
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\AForge.Imaging.xml
+C:\Users\THOMAS\Documents\OperacionBiometrica\TestServices\bin\Debug\AForge.Math.xml
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\TestServices.exe.config
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\TestServices.exe
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\TestServices.pdb
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\Camara.dll
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\IiritechMono.dll
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\AForge.Controls.dll
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\AForge.Video.dll
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\Iddk2000DotNet.dll
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\AForge.dll
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\AForge.Imaging.dll
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\AForge.Math.dll
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\Camara.pdb
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\IiritechMono.pdb
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\AForge.Controls.xml
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\AForge.Video.xml
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\Iddk2000DotNet.xml
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\AForge.xml
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\AForge.Imaging.xml
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\bin\Debug\AForge.Math.xml
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\obj\Debug\TestServices.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\obj\Debug\TestServices.Properties.Resources.resources
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\obj\Debug\TestServices.CaptureDevice.resources
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\obj\Debug\TestServices.csproj.GenerateResource.Cache
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\obj\Debug\TestServices.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\obj\Debug\TestServices.exe
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\TestServices\obj\Debug\TestServices.pdb
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\bin\Debug\TestServices.exe.config
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\bin\Debug\TestServices.exe
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\bin\Debug\TestServices.pdb
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\bin\Debug\Camara.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\bin\Debug\IiritechMono.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\bin\Debug\AForge.Controls.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\bin\Debug\AForge.Video.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\bin\Debug\Iddk2000DotNet.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\bin\Debug\AForge.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\bin\Debug\AForge.Imaging.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\bin\Debug\Camara.pdb
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\bin\Debug\IiritechMono.pdb
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\obj\Debug\TestServices.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\obj\Debug\TestServices.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\obj\Debug\TestServices.Properties.Resources.resources
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\obj\Debug\TestServices.CaptureDevice.resources
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\obj\Debug\TestServices.csproj.GenerateResource.cache
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\obj\Debug\TestServices.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\obj\Debug\TestServices.csproj.CopyComplete
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\obj\Debug\TestServices.exe
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestServices\obj\Debug\TestServices.pdb

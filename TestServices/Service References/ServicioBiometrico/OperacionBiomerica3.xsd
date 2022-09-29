@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:2506/OperacionBiomerica.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/OperacionBiometrica" />
+  <xs:element name="Identifiacion">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="datos" nillable="true" type="xs:base64Binary" />
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/OperacionBiometrica" minOccurs="0" name="fomatoimagen" type="q1:OperacionesComunes.FormatoArchivo" />
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/OperacionBiometrica" minOccurs="0" name="tipoImagen" type="q2:OperacionesComunes.TipoArchivo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="IdentifiacionResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q3="http://schemas.datacontract.org/2004/07/OperacionBiometrica" minOccurs="0" name="IdentifiacionResult" nillable="true" type="q3:Respuesta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Verificar">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="datos" nillable="true" type="xs:base64Binary" />
+        <xs:element minOccurs="0" name="datosBasicosJson" nillable="true" type="xs:string" />
+        <xs:element xmlns:q4="http://schemas.datacontract.org/2004/07/OperacionBiometrica" minOccurs="0" name="fomatoimagen" type="q4:OperacionesComunes.FormatoArchivo" />
+        <xs:element xmlns:q5="http://schemas.datacontract.org/2004/07/OperacionBiometrica" minOccurs="0" name="tipoImagen" type="q5:OperacionesComunes.TipoArchivo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="VerificarResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q6="http://schemas.datacontract.org/2004/07/OperacionBiometrica" minOccurs="0" name="VerificarResult" nillable="true" type="q6:Respuesta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Enrollar">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="datos" nillable="true" type="xs:base64Binary" />
+        <xs:element minOccurs="0" name="datosBasicosJson" nillable="true" type="xs:string" />
+        <xs:element xmlns:q7="http://schemas.datacontract.org/2004/07/OperacionBiometrica" minOccurs="0" name="fomatoimagen" type="q7:OperacionesComunes.FormatoArchivo" />
+        <xs:element xmlns:q8="http://schemas.datacontract.org/2004/07/OperacionBiometrica" minOccurs="0" name="tipoImagen" type="q8:OperacionesComunes.TipoArchivo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="EnrollarResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q9="http://schemas.datacontract.org/2004/07/OperacionBiometrica" minOccurs="0" name="EnrollarResult" nillable="true" type="q9:Respuesta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="test">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="testResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q10="http://schemas.datacontract.org/2004/07/OperacionBiometrica" minOccurs="0" name="testResult" nillable="true" type="q10:Respuesta" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

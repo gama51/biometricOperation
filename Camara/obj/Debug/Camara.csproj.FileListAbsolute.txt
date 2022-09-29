@@ -1,0 +1,37 @@
+C:\Users\THOMAS\Documents\OperacionBiometrica\Camara\obj\Debug\Camara.csprojResolveAssemblyReference.cache
+C:\Users\THOMAS\Documents\OperacionBiometrica\Camara\bin\Debug\Camara.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\Camara\bin\Debug\Camara.pdb
+C:\Users\THOMAS\Documents\OperacionBiometrica\Camara\bin\Debug\AForge.Controls.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\Camara\bin\Debug\AForge.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\Camara\bin\Debug\AForge.Imaging.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\Camara\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\Camara\bin\Debug\AForge.Video.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\Camara\bin\Debug\AForge.Math.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\Camara\bin\Debug\AForge.xml
+C:\Users\THOMAS\Documents\OperacionBiometrica\Camara\bin\Debug\AForge.Controls.xml
+C:\Users\THOMAS\Documents\OperacionBiometrica\Camara\bin\Debug\AForge.Imaging.xml
+C:\Users\THOMAS\Documents\OperacionBiometrica\Camara\bin\Debug\AForge.Video.xml
+C:\Users\THOMAS\Documents\OperacionBiometrica\Camara\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\THOMAS\Documents\OperacionBiometrica\Camara\bin\Debug\AForge.Math.xml
+C:\Users\THOMAS\Documents\OperacionBiometrica\Camara\obj\Debug\Camara.dll
+C:\Users\THOMAS\Documents\OperacionBiometrica\Camara\obj\Debug\Camara.pdb
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\Camara\bin\Debug\Camara.dll
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\Camara\bin\Debug\Camara.pdb
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\Camara\bin\Debug\AForge.Math.dll
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\Camara\bin\Debug\AForge.xml
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\Camara\bin\Debug\AForge.Controls.xml
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\Camara\bin\Debug\AForge.Imaging.xml
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\Camara\bin\Debug\AForge.Video.xml
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\Camara\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\Camara\bin\Debug\AForge.Math.xml
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\Camara\obj\Debug\Camara.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\Camara\obj\Debug\Camara.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\Camara\obj\Debug\Camara.dll
+C:\Users\Thomas\Desktop\Entrega\Proyecto 1\OperacionBiometrica\Camara\obj\Debug\Camara.pdb
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\Camara\bin\Debug\Camara.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\Camara\bin\Debug\Camara.pdb
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\Camara\obj\Debug\Camara.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\Camara\obj\Debug\Camara.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\Camara\obj\Debug\Camara.csproj.CopyComplete
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\Camara\obj\Debug\Camara.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\Camara\obj\Debug\Camara.pdb

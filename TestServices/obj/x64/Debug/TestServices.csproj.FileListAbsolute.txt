@@ -1,0 +1,9 @@
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\bin\x64\Debug\TestServices.exe.config
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\bin\x64\Debug\TestServices.exe
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\bin\x64\Debug\TestServices.pdb
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\obj\x64\Debug\TestServices.csprojResolveAssemblyReference.cache
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\obj\x64\Debug\TestServices.Properties.Resources.resources
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\obj\x64\Debug\TestServices.TestFace.resources
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\obj\x64\Debug\TestServices.csproj.GenerateResource.Cache
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\obj\x64\Debug\TestServices.exe
+C:\Users\THOMAS\Google Drive\PersonalProject\RostroProjecto\Sources\OperacionBiometrica\TestServices\obj\x64\Debug\TestServices.pdb
