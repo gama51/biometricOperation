@@ -51,7 +51,6 @@ C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\Biometric
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\roslyn\VBCSCompiler.exe
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Antlr3.Runtime.dll
-C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\BioemtricLib.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Newtonsoft.Json.dll
@@ -72,7 +71,6 @@ C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\Biometric
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Neurotec.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Neurotec.Media.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Neurotec.Devices.dll
-C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\BioemtricLib.pdb
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Newtonsoft.Json.xml
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\System.Net.Http.Formatting.xml
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\System.Web.Helpers.xml
@@ -107,3 +105,5 @@ C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\Biometric
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\obj\x86\Debug\BiometricRest.csproj.CopyComplete
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\obj\x86\Debug\BiometricRest.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\obj\x86\Debug\BiometricRest.pdb
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\BiometricLib.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\BiometricLib.pdb

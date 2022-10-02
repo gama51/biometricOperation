@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 
-namespace BioemtricLib
+namespace BiometricLib
 {
 
     [Guid("2D8E08D5-3FF8-4C24-834F-D75FA7D16554"),

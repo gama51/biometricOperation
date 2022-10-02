@@ -1,4 +1,4 @@
-﻿namespace BioemtricLib
+﻿namespace BiometricLib
 {
     public class License
     {

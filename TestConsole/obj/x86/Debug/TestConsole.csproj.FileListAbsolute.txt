@@ -20,6 +20,6 @@ C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\x86\Deb
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\x86\Debug\Neurotec.Media.xml
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\x86\Debug\Neurotec.Devices.xml
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\obj\x86\Debug\TestConsole.csproj.CopyComplete
-C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\x86\Debug\BioemtricLib.dll
-C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\x86\Debug\BioemtricLib.pdb
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\obj\x86\Debug\TestConsole.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\x86\Debug\BiometricLib.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\x86\Debug\BiometricLib.pdb
