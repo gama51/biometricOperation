@@ -7,22 +7,20 @@ using System;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 
-namespace BioemtricLib
+namespace BiometricLib
 {
 
     [Guid("E7D34FF7-4BB1-482F-9F00-CDE93E0CCF8F"),
     ClassInterface(ClassInterfaceType.AutoDual),
     ComSourceInterfaces(typeof(IOpereacionBiometrica))]
     [ComVisible(true)]
-    [ProgId("BioemtricLib.OperacionBiometrica")]
+    [ProgId("BiometricLib.OperacionBiometrica")]
     public class OperacionBiometrica : IOpereacionBiometrica
     {
 
         public static bool _estadoDelicencias = false;
         public bool EsatdoLicencias{ get { return _estadoDelicencias; } }
-        static string Components =
-            "Biometrics.FingerExtraction," +
-            "Biometrics.Standards.Base";
+        static string Components = "FingerClient,FingerMatcher";
 
         private NBiometricClient _clienteBiometrico;
 
@@ -101,7 +99,7 @@ namespace BioemtricLib
                
                 foreach (string component in Components.Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
                 {
-                    if (NLicense.ObtainComponents(LicensingAddress, LicencingPort, component))
+                    if (NLicense.Obtain(LicensingAddress, LicencingPort, component))
                     {
 
                         _estadoDelicencias = true;
@@ -133,7 +131,7 @@ namespace BioemtricLib
 
                 foreach (string component in Components.Split(new[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
                 {
-                    NLicense.ReleaseComponents(component);
+                    NLicense.Release(component);
                 }
 
             }
@@ -144,14 +142,14 @@ namespace BioemtricLib
             }
             
         }
-        public IRespuesta Verify(string fingerTemplate1Bs64, string fingerTemplate2Bs64)
+        public string Verify(string fingerTemplate1Bs64, string fingerTemplate2Bs64)
         {
             var finger1 = Convert.FromBase64String(fingerTemplate1Bs64);
             var finger2 = Convert.FromBase64String(fingerTemplate2Bs64);
             return Verify(finger1, finger2);
         }
 
-        public IRespuesta Verify(byte[] fingerTemplate1, byte[] fingerTemplate2)
+        public string Verify(byte[] fingerTemplate1, byte[] fingerTemplate2)
         {
 
 
@@ -171,14 +169,14 @@ namespace BioemtricLib
                 resp.Result = false;
                 resp.Score = 0;
                 resp.Error = "Subject 1 is invalid";
-                return resp;
+                return JsonConvert.SerializeObject(resp);
             }
             if (!IsSubjectValid(subject1))
             {
                 resp.Result = false;
                 resp.Score = 0;
                 resp.Error = "Subject 2 is invalid";
-                return resp;
+                return JsonConvert.SerializeObject(resp);
 
             }
 
@@ -197,7 +195,7 @@ namespace BioemtricLib
             }
             _clienteBiometrico.Dispose();
             ReleaseLicencias();
-            return resp;
+            return JsonConvert.SerializeObject(resp);
         }
 
         private bool IsSubjectValid(NSubject subject)

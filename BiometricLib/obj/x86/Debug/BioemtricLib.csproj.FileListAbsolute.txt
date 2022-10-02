@@ -15,7 +15,6 @@ C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricLib\bin\x86\De
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricLib\bin\x86\Debug\Neurotec.Media.xml
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricLib\bin\x86\Debug\Newtonsoft.Json.xml
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricLib\bin\x86\Debug\Neurotec.Devices.xml
-C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricLib\obj\x86\Debug\BioemtricLib.csproj.AssemblyReference.cache
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricLib\obj\x86\Debug\BioemtricLib.csproj.CoreCompileInputs.cache
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricLib\obj\x86\Debug\BioemtricLib.csproj.CopyComplete
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricLib\obj\x86\Debug\BioemtricLib.dll

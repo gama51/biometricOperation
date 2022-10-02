@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("BioemtricLib")]
-[assembly: AssemblyDescription("BioemtricLib")]
+[assembly: AssemblyTitle("BiometricLib")]
+[assembly: AssemblyDescription("BiometricLib")]
 [assembly: AssemblyConfiguration("BioemtricLib")]
-[assembly: AssemblyCompany("BioemtricLib")]
-[assembly: AssemblyProduct("BioemtricLib")]
+[assembly: AssemblyCompany("BiometricLib")]
+[assembly: AssemblyProduct("BiometricLib")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("BioemtricLib")]
 [assembly: AssemblyCulture("")]

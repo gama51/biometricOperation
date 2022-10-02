@@ -1,4 +1,5 @@
-﻿using BioemtricLib;
+﻿using BiometricLib;
+using Newtonsoft.Json;
 using System;
 using System.IO;
 namespace TestConsole
@@ -12,7 +13,7 @@ namespace TestConsole
             operacionBiometrica.init(5000, "/local", true, 76);
 
             var isBs64 = Convert.ToBoolean(args[2]);
-            IRespuesta resp = null;
+            string resp = null;
             if (!isBs64)
             {
                 var file1 = File.ReadAllBytes(args[0]);
@@ -25,12 +26,13 @@ namespace TestConsole
                 var file2 = args[1];
                 resp = operacionBiometrica.Verify(file1, file2);
             }
-            if (resp.Result)
+            Respuesta resp2 = JsonConvert.DeserializeObject<Respuesta>(resp);
+            if (resp2.Result)
             {
-                Console.WriteLine("Veriricación exitosa score :->" + resp.Score);
+                Console.WriteLine("Veriricación exitosa score :->" + resp2.Score);
             }
             else {
-                Console.WriteLine("Veriricación fallida score :->" + resp.Score +" Errores: " + resp.Error);
+                Console.WriteLine("Veriricación fallida score :->" + resp2.Score +" Errores: " + resp2.Error);
             }
             //Console.ReadKey();
             goto inicio;

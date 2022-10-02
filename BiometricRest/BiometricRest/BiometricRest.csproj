@@ -249,9 +249,9 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\BiometricLib\BioemtricLib.csproj">
+    <ProjectReference Include="..\..\BiometricLib\BiometricLib.csproj">
       <Project>{993b4882-6375-4d4c-9aca-4a081350eb5d}</Project>
-      <Name>BioemtricLib</Name>
+      <Name>BiometricLib</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
