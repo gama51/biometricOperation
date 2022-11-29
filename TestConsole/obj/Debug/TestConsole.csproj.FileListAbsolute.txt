@@ -4,7 +4,6 @@ C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\obj\Debug\T
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\TestConsole.exe.config
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\TestConsole.exe
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\TestConsole.pdb
-C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\BioemtricLib.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\Neurotec.Biometrics.Client.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\Neurotec.Biometrics.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\Neurotec.Licensing.dll
@@ -12,7 +11,6 @@ C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\N
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\Neurotec.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\Neurotec.Media.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\Neurotec.Devices.dll
-C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\BioemtricLib.pdb
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\Neurotec.Biometrics.Client.xml
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\Neurotec.Biometrics.xml
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\Neurotec.Licensing.xml
@@ -23,3 +21,5 @@ C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\N
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\obj\Debug\TestConsole.csproj.CopyComplete
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\obj\Debug\TestConsole.exe
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\obj\Debug\TestConsole.pdb
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\BiometricLib.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\BiometricLib.pdb

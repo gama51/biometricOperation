@@ -20,7 +20,12 @@
       "ProjectGuid": "993b4882-6375-4d4c-9aca-4a081350eb5d",
       "DisplayName": "BioemtricLib",
       "ColorIndex": 2
+    },
+    "35678307-d94b-424f-8177-bdebab2398c2": {
+      "ProjectGuid": "35678307-d94b-424f-8177-bdebab2398c2",
+      "DisplayName": "OperacionBiometrica",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

@@ -152,9 +152,7 @@ namespace BiometricLib
         public string Verify(byte[] fingerTemplate1, byte[] fingerTemplate2)
         {
 
-
             IRespuesta resp = new Respuesta();
-
 
             NSubject subject1 = new NSubject();
             NSubject subject2 = new NSubject();
@@ -194,7 +192,7 @@ namespace BiometricLib
 
             }
             _clienteBiometrico.Dispose();
-            ReleaseLicencias();
+           
             return JsonConvert.SerializeObject(resp);
         }
 
@@ -203,6 +201,11 @@ namespace BiometricLib
             return subject != null && (subject.Status == NBiometricStatus.Ok
                 || subject.Status == NBiometricStatus.MatchNotFound
                 || subject.Status == NBiometricStatus.None && subject.GetTemplateBuffer() != null);
+        }
+
+        public void release()
+        {
+            ReleaseLicencias();
         }
 
     }

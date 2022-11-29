@@ -8,12 +8,13 @@ namespace TestConsole
     {
         static void Main(string[] args)
         {
-            inicio:
+           
             var operacionBiometrica = new OperacionBiometrica();
             operacionBiometrica.init(5000, "/local", true, 76);
 
             var isBs64 = Convert.ToBoolean(args[2]);
             string resp = null;
+        inicio:
             if (!isBs64)
             {
                 var file1 = File.ReadAllBytes(args[0]);

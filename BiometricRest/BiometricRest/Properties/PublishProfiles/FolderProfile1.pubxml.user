@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>C:\inetpub\wwwroot\biometricRest</_PublishTargetUrl>
-    <History>True|2022-09-29T06:26:07.0126582Z;True|2022-09-29T01:17:07.7918630-05:00;</History>
+    <History>True|2022-10-04T16:38:01.1632034Z;True|2022-10-04T11:37:37.7839951-05:00;True|2022-09-29T01:26:07.0126582-05:00;True|2022-09-29T01:17:07.7918630-05:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="Areas/HelpPage/HelpPage.css">
@@ -83,11 +83,17 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
     <File Include="bin/BioemtricLib.pdb">
       <publishTime>09/29/2022 03:11:50</publishTime>
     </File>
+    <File Include="bin/BiometricLib.dll">
+      <publishTime>10/04/2022 11:37:16</publishTime>
+    </File>
+    <File Include="bin/BiometricLib.pdb">
+      <publishTime>10/04/2022 11:37:16</publishTime>
+    </File>
     <File Include="bin/BiometricRest.dll">
-      <publishTime>09/29/2022 03:12:20</publishTime>
+      <publishTime>10/04/2022 11:37:36</publishTime>
     </File>
     <File Include="bin/BiometricRest.pdb">
-      <publishTime>09/29/2022 03:12:20</publishTime>
+      <publishTime>10/04/2022 11:37:36</publishTime>
     </File>
     <File Include="bin/es/System.Net.Http.Formatting.resources.dll">
       <publishTime>11/28/2018 13:00:46</publishTime>

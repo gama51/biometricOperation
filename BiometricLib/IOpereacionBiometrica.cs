@@ -14,5 +14,7 @@ namespace BiometricLib
         string Verify(byte[] fingerTemplate1, byte[] fingerTemplate2);
 
         void init(int licencingPort = 5000, string licensingAddress = "/local", bool licenseMode = true, int humbralAceptacion = 76);
+
+        void release();
     }
 }

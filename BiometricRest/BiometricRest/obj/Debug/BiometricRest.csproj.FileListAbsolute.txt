@@ -92,14 +92,12 @@ C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\Biometric
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\obj\Debug\BiometricRest.csproj.CopyComplete
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\obj\Debug\BiometricRest.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\obj\Debug\BiometricRest.pdb
-C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\BioemtricLib.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Neurotec.Biometrics.Client.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Neurotec.Biometrics.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Neurotec.Licensing.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Neurotec.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Neurotec.Media.dll
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Neurotec.Devices.dll
-C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\BioemtricLib.pdb
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Neurotec.Biometrics.Client.xml
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Neurotec.Biometrics.xml
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Neurotec.Licensing.xml
@@ -107,3 +105,5 @@ C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\Biometric
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Neurotec.Media.xml
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Neurotec.Devices.xml
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\obj\Debug\BiometricRest.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\BiometricLib.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\BiometricLib.pdb

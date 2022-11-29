@@ -114,6 +114,9 @@
     <Reference Include="Neurotec.Media_FX35">
       <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Neurotechnology\Neurotec Biometric 9.0 SDK Trial\Bin\Win32_x86\Neurotec.Media_FX35.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />

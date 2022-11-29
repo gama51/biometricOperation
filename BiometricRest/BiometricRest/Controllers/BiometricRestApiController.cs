@@ -45,12 +45,14 @@ namespace BiometricRest.Controllers
                 var operacionBiometrica = new OperacionBiometrica();
                 operacionBiometrica.init(5000, "/local", true, request.umbral);
                 var resp = operacionBiometrica.Verify(request.SubjectTemplate1, request.SubjectTemplate2);
+                
                 var resp2 = JsonConvert.DeserializeObject<Response>(resp);
                 var response = new Response { Result = resp2.Result, score = resp2.score , Error = resp2.Error};
                 http_response = new HttpResponseMessage(HttpStatusCode.OK)
                 {
                     Content = new StringContent(JsonConvert.SerializeObject(response, Formatting.Indented))
                 };
+                operacionBiometrica.release();
 
             }
             catch (Exception ex)
