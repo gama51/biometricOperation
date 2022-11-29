@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace BiometricLib
+namespace BiometricLibV2
 {
 
-    [Guid("1A7BEC2D-AA58-485A-AC8E-CB630B40F06B"), 
+    [Guid("B55E7960-A8EE-44B3-BE1B-47129CCEB6BE"), 
         InterfaceType(ComInterfaceType.InterfaceIsDual)]
     [ComVisible(true)]
     public interface IOpereacionBiometrica

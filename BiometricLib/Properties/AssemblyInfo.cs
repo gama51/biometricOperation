@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("BiometricLib")]
-[assembly: AssemblyDescription("BiometricLib")]
-[assembly: AssemblyConfiguration("BioemtricLib")]
-[assembly: AssemblyCompany("BiometricLib")]
-[assembly: AssemblyProduct("BiometricLib")]
+[assembly: AssemblyTitle("BiometricLibV2")]
+[assembly: AssemblyDescription("BiometricLibV2")]
+[assembly: AssemblyConfiguration("BiometricLibV2")]
+[assembly: AssemblyCompany("BiometricLibV2")]
+[assembly: AssemblyProduct("BiometricLibV2")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
-[assembly: AssemblyTrademark("BioemtricLib")]
+[assembly: AssemblyTrademark("BiometricLibV2")]
 [assembly: AssemblyCulture("")]
 
 // Si establece ComVisible en false, los tipos de este ensamblado no estarán visibles 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(true)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("DE60DB27-AE03-4532-8BAB-B12827719832")]
+[assembly: Guid("9D801679-7E56-460F-BE5E-2476352E7777")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //

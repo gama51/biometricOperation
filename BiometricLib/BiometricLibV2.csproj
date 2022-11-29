@@ -7,8 +7,8 @@
     <ProjectGuid>{993B4882-6375-4D4C-9ACA-4A081350EB5D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BiometricLib</RootNamespace>
-    <AssemblyName>BiometricLib</AssemblyName>
+    <RootNamespace>BiometricLibV2</RootNamespace>
+    <AssemblyName>BiometricLibV2</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

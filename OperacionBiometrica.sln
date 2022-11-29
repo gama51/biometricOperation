@@ -17,7 +17,7 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TestCOM", "TestCOM\TestCOM.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiometricRest", "BiometricRest\BiometricRest\BiometricRest.csproj", "{0861FE61-A2BB-4673-8B9B-33C1AE8CB653}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiometricLib", "BiometricLib\BiometricLib.csproj", "{993B4882-6375-4D4C-9ACA-4A081350EB5D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiometricLibV2", "BiometricLib\BiometricLibV2.csproj", "{993B4882-6375-4D4C-9ACA-4A081350EB5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

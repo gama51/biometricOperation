@@ -21,5 +21,5 @@ C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\N
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\obj\Debug\TestConsole.csproj.CopyComplete
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\obj\Debug\TestConsole.exe
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\obj\Debug\TestConsole.pdb
-C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\BiometricLib.dll
-C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\BiometricLib.pdb
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\BiometricLibV2.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\TestConsole\bin\Debug\BiometricLibV2.pdb

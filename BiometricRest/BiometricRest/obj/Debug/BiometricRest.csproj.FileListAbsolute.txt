@@ -105,5 +105,5 @@ C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\Biometric
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Neurotec.Media.xml
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\Neurotec.Devices.xml
 C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\obj\Debug\BiometricRest.csproj.AssemblyReference.cache
-C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\BiometricLib.dll
-C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\BiometricLib.pdb
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\BiometricLibV2.dll
+C:\Users\Gabriel\Documents\PROYECTOS\OperacionBiometrica\BiometricRest\BiometricRest\bin\BiometricLibV2.pdb

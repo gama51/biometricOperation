@@ -7,14 +7,14 @@ using System;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 
-namespace BiometricLib
+namespace BiometricLibV2
 {
 
-    [Guid("E7D34FF7-4BB1-482F-9F00-CDE93E0CCF8F"),
-    ClassInterface(ClassInterfaceType.AutoDual),
-    ComSourceInterfaces(typeof(IOpereacionBiometrica))]
+    [Guid("42172C06-8F4E-422E-A10F-6016555A5C44"),
+        ClassInterface(ClassInterfaceType.AutoDual),
+        ComSourceInterfaces(typeof(IOpereacionBiometrica))]
     [ComVisible(true)]
-    [ProgId("BiometricLib.OperacionBiometrica")]
+    [ProgId("BiometricLibV2.OperacionBiometrica")]
     public class OperacionBiometrica : IOpereacionBiometrica
     {
 

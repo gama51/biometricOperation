@@ -74,9 +74,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BiometricLib\BiometricLib.csproj">
+    <ProjectReference Include="..\BiometricLib\BiometricLibV2.csproj">
       <Project>{993b4882-6375-4d4c-9aca-4a081350eb5d}</Project>
-      <Name>BiometricLib</Name>
+      <Name>BiometricLibV2</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

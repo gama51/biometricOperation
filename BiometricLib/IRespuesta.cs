@@ -1,9 +1,9 @@
 ﻿using System.Runtime.InteropServices;
 
-namespace BiometricLib
+namespace BiometricLibV2
 {
 
-    [Guid("2D8E08D5-3FF8-4C24-834F-D75FA7D16554"),
+    [Guid("169BE316-8660-40D0-955A-1DCABD078079"),
         InterfaceType(ComInterfaceType.InterfaceIsDual)]    
     [ComVisible(true)]
     public interface IRespuesta

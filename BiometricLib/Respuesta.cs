@@ -1,13 +1,13 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace BiometricLib
+namespace BiometricLibV2
 {
-    [Guid("FC896FC5-2A87-4991-83BE-A52A9F609371"),
-    ClassInterface(ClassInterfaceType.AutoDual),
+    [Guid("190ED73B-63D4-4F20-84AA-A76BF4E41E6F"),
+        ClassInterface(ClassInterfaceType.AutoDual),
     ComSourceInterfaces(typeof(IRespuesta))]
     [ComVisible(true)]
-    [ProgId("BiometricLib.Respuesta")]
+    [ProgId("BiometricLibV2.Respuesta")]
     public class Respuesta : IRespuesta
     {
         public bool Result { get ; set ; }
